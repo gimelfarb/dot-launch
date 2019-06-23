@@ -15,8 +15,7 @@
   "keywords": [
     "env",
     "launch",
-    "debug",
-    "dynamic"
+    "debug"
   ],
   "author": "Lev Gimelfarb <lev@gimelfarb.net>",
   "license": "ISC",
