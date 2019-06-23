@@ -10,8 +10,7 @@
   "scripts": {
     "test": "jest --coverage",
     "cli": "./bin/dot-launch.js",
-    "lint": "eslint src/",
-    "prepublishOnly": "npm run lint && npm test"
+    "lint": "eslint src/"
   },
   "keywords": [
     "env",
