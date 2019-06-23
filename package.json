@@ -1,6 +1,6 @@
 {
   "name": "dot-launch",
-  "version": "1.0.0",
+  "version": "0.0.0-develop",
   "description": "Creates HTML launch file to redirect to app URL. Useful when URL is dynamic and generated at run-time (i.e. random port).",
   "main": "src/index.js",
   "repository": {
