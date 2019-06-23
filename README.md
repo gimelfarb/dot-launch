@@ -57,7 +57,7 @@ $ code .
 
 We will utilise [`envex`](https://github.com/gimelfarb/envex) utility to setup and control environment variables. Create a `.envexrc.json` configuration file:
 
-```json
+```js
 // File: .envexrc.json
 {
     "profiles": {
@@ -82,7 +82,7 @@ We will utilise [`envex`](https://github.com/gimelfarb/envex) utility to setup a
 
 Modify `package.json` scripts:
 
-```json
+```js
 // File: package.json
 {
     "scripts": {
